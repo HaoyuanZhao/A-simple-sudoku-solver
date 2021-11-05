@@ -1,0 +1,14 @@
+[package]
+name = "project"
+version = "0.1.0"
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[lib]
+name = "rust_soduku"
+crate-type = ["dylib"]
+
+[dependencies]
+array2d = "0.2.1"
+rand = "0.8.4"
