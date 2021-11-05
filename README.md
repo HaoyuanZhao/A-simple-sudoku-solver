@@ -3,6 +3,7 @@ This is a web based application that can create and solve a sudoku puzzle using 
 
 # Development
 You need to build the Rust library first, then run the main code.
+
         cargo build
         python3 main.py
 
