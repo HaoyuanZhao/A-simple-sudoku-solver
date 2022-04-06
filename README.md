@@ -12,7 +12,7 @@ You need to build the Rust first, then run the main code.
     python3 main.py
 
 # About the code
-To achieve the optimal running speed, this project use Rsut as the mian programming language to implement the algorithm which generate/solve the sudoku puzzle.  
+To achieve the optimal running speed, this project use Rust as the mian programming language to implement the algorithm which generate/solve the sudoku puzzle.  
 Possible outputs for solving a sudoku puzzle: 1. successfully solved 2. no solution for this Sudoku 3. User's illegal inputs (e.g.,two identical numbers in a same row/column/3*3 block)  
 Possible outputs for generating a sudoku puzzle (for user to solve): 1.You get the correct answer 2. The answer is not correct...
 
